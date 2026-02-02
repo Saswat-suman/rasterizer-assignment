@@ -9,3 +9,17 @@ Please switch to the respective branches using the switch command,
 
 Please fork this repository and finish your assignment. Do not send
 any pull request. They will be ignored.
+
+# Marking scheme
+
+| Stage                       | Points |
+|-----------------------------|--------|
+| Code does not compile       | 0      |
+| Browser Console error       | 0      |
+| Code works for one quadrant | 5      |
+| Code works for all quadrant | 10     |
+
+# Issues
+
+For any problems with the provided code, please open a new pull
+request.
