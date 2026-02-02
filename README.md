@@ -6,7 +6,7 @@ You have to implement the following algorithms:
 - Midpoint Circle Drawing Algorithm
 - DDA Line Drawing Algorithm
 - Wu's Line Drawing Algorithm (Bonus)
--
+
 ## Prerequisites
 
 A modern web browser (Chrome, Firefox, Safari, Edge)
